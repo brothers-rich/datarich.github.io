@@ -6,15 +6,15 @@ Greetings! Thanks for coming to check out our podcast. We're The Brothers Rich, 
 
 ##Who are The Brothers Rich?
 
-Steven Rich is the database editor for investigations at The Washington Post. He's been a working journalist for just a few years, but in that time, he's been a reporter on teams that have won numerous national awards, including the Pulitzer Prize for Public Service. He's taught data journalism at Northwestern, Georgetown and Virginia Tech and is on the Board of Directors for IRE. In his spare time, he likes to help on open source data projects as much as he can. You can email him or follow him on Twitter, although he usually just tweets lame jokes.
+Steven Rich is the database editor for investigations at The Washington Post. He's been a working journalist for just a few years, but in that time, he's been a reporter on teams that have won numerous national awards, including the Pulitzer Prize for Public Service. He's taught data journalism at Northwestern, Georgetown and Virginia Tech and is on the Board of Directors for IRE. In his spare time, he likes to help on open source data projects as much as he can. You can [email him](mailto:steven.rich@washpost.com) or [follow him on Twitter](https://twitter.com/dataeditor), although he usually just tweets lame jokes.
 
-Gerald Rich is an interactive producer making online graphics with Vocativ, an online publication using data mining to cover the news. His past bylines include NPR, ProPublica, and most recently at The Marshall Project. He's a self-taught programmer who studied economics at the University of Texas, and likes making maps and software to help reporters and editors. You can also email him or follow him on Twitter. (He usually tweets better jokes than Steven, though.)
+Gerald Rich is an interactive producer making online graphics with Vocativ, an online publication using data mining to cover the news. His past bylines include NPR, ProPublica, and most recently at The Marshall Project. He's a self-taught programmer who studied economics at the University of Texas, and likes making maps and software to help reporters and editors. You can also [email him](mailto:gerald.a.rich@gmail.com) or [follow him on Twitter](https://twitter.com/gerald_arthur). (He usually tweets better jokes than Steven, though.)
 
 ##Episode One
 
 DENVER — The city’s mile-high altitude really hits the brothers hard in our first installment. This month the brothers attend NICAR, the annual conference for the National Institute of Computer-Assisted Reporting. It's the oldest and largest conference dedicated to data journalism and a great place to talk to old friends and new about data journalism and its evolution. Enjoy!
 
-<i>Biggest thanks to Julia Chan, a Digital Editor at Reveal News, for her help making this month's episode. Without her we would have had a poorer show. Thank you!</i>
+<i>Biggest thanks to [Julia Chan](https://twitter.com/juliachanb), a Digital Editor at [Reveal News](https://www.revealnews.org/), for her help making this month's episode. Without her we would have had a poorer show. Thank you!</i>
 
 ###Links:
 
