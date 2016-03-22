@@ -1,4 +1,4 @@
-# datarich.github.io 
+# Data Ri¢h Podcast
 
 ##About
 
