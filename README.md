@@ -14,22 +14,22 @@ Gerald Rich is an interactive producer making online graphics with Vocativ, an o
 
 DENVER — The city’s mile-high altitude really hits the brothers hard in our first installment. This month the brothers attend NICAR, the annual conference for the National Institute of Computer-Assisted Reporting. It's the oldest and largest conference dedicated to data journalism and a great place to talk to old friends and new about data journalism and its evolution. Enjoy!
 
-Biggest thanks to Julia Chan, a Digital Editor at Reveal News, for her help making this month's episode. Without her we would have had a poorer show. Thank you!
+<i>Biggest thanks to Julia Chan, a Digital Editor at Reveal News, for her help making this month's episode. Without her we would have had a poorer show. Thank you!</i>
 
 ###Links:
 
-Tipsheets compiled by Investigative Reporters & Editors
-Tipsheets as compiled by Chrys Wu
-NICAR conference blog
-A link to donate to IRE, the folks who put on a wonderful conference
+- Tipsheets compiled by Investigative Reporters & Editors
+- Tipsheets as compiled by Chrys Wu
+- NICAR conference blog
+- A link to donate to IRE, the folks who put on a wonderful conference
 
 ###Music:
 
-Episode Intro: Tobaggan - Silent Partner
-Episode Outro: Roller Blades - Otis McDonald
-Better Know a Data intro: Space Coast - Topher Mohr and Alex Elena
-Better Know a Data outro:Vespers - Topher Mohr and Alex Elena
-NICAR interviews: Late Night Snack - Gunnar Olsen
+- Episode Intro: Tobaggan - Silent Partner
+- Episode Outro: Roller Blades - Otis McDonald
+- Better Know a Data intro: Space Coast - Topher Mohr and Alex Elena
+- Better Know a Data outro:Vespers - Topher Mohr and Alex Elena
+- NICAR interviews: Late Night Snack - Gunnar Olsen
 
 ##Friends of the family
 
