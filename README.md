@@ -18,34 +18,34 @@ DENVER — The city’s mile-high altitude really hits the brothers hard in our 
 
 ###Links:
 
-- Tipsheets compiled by Investigative Reporters & Editors
-- Tipsheets as compiled by Chrys Wu
-- NICAR conference blog
-- A link to donate to IRE, the folks who put on a wonderful conference
+- [Tipsheets](http://www.ire.org/conferences/nicar2016/tipsheets-and-links/) compiled by [Investigative Reporters & Editors](http://ire.org/)
+- [Tipsheets](http://blog.chryswu.com/2016/03/08/nicar16-slides-links-tutorials-resources/) as compiled by [Chrys Wu](https://twitter.com/MacDiva)
+- [NICAR conference blog](http://ire.org/blog/car-conference-blog/)
+- A link to [donate to IRE](http://ire.org/donate/), the folks who put on a wonderful conference
 
 ###Music:
 
-- Episode Intro: Tobaggan - Silent Partner
-- Episode Outro: Roller Blades - Otis McDonald
-- Better Know a Data intro: Space Coast - Topher Mohr and Alex Elena
-- Better Know a Data outro:Vespers - Topher Mohr and Alex Elena
-- NICAR interviews: Late Night Snack - Gunnar Olsen
+- Episode Intro: [Tobaggan - Silent Partner](https://www.youtube.com/audiolibrary/music)
+- Episode Outro: [Roller Blades - Otis McDonald](https://www.youtube.com/audiolibrary/music)
+- Better Know a Data intro: [Space Coast - Topher Mohr and Alex Elena](https://www.youtube.com/watch?v=-C9w5OI6MhM&index=11&list=PLv6VwSX9sjmfG1jnxnRPQjXdAY4kooIor)
+- Better Know a Data outro: [Vespers - Topher Mohr and Alex Elena](https://www.youtube.com/watch?v=nV-HUlPXeKs&list=PLv6VwSX9sjmfG1jnxnRPQjXdAY4kooIor&index=36)
+- NICAR interviews: [Late Night Snack - Gunnar Olsen](https://www.youtube.com/audiolibrary/music)
 
 ##Friends of the family
 
 Over the course of the show, you will hear many voices that aren't our own. We love the data journalism community and want them on as frequently as we can get them. Like good data journalists, we'll be keeping a spreadsheet (coming soon) of all those who appear on the show. If you see any fields you like us to add, just ask. We're happy to update with now fields and new folks as we continue to podcast. For our first episode, friends of the family include:
 
-- Audrey Carlson
-- Denise Lu
-- Jacob Harris
-- Julia B. Chan
-- Laura Gomez
-- Marissa Evans
-- Quinn Norton
-- Stacy Jones
+- [Audrey Carlson](https://twitter.com/audcarls)
+- [Denise Lu](https://twitter.com/DeniseDSLu)
+- [Jacob Harris](https://twitter.com/harrisj)
+- [Julia B. Chan](https://twitter.com/juliachanb)
+- [Laura Gomez](https://twitter.com/Laura_GomezRod)
+- [Marissa Evans](https://twitter.com/marissaaevans)
+- [Quinn Norton](https://twitter.com/quinnnorton)
+- [Stacy Jones](https://twitter.com/stacyannj)
 
 ##Contact
 
-So...at the moment, it's just the two of us recording and editing this podcast. We're both novices but working to get better. If you'd like to help us produce shows, we'd be extraordinarily grateful. Please contact either of The Brothers Rich on Twitter or send an email to datarichpodcast@gmail.com.
+So...at the moment, it's just the two of us recording and editing this podcast. We're both novices but working to get better. If you'd like to help us produce shows, we'd be extraordinarily grateful. Please contact either of The Brothers Rich on Twitter or send an email to [datarichpodcast@gmail.com](mailto:datarichpodcast@gmail.com).
 
 Also, if you have any interest in being on the podcast, feel free to contact us and let us know what you want to talk about. We're always open to suggestions and new friends of the family.
