@@ -14,7 +14,7 @@ Gerald Rich is an interactive producer making online graphics with Vocativ, an o
 
 DENVER — The city’s mile-high altitude really hits the brothers hard in our first installment. This month the brothers attend NICAR, the annual conference for the National Institute of Computer-Assisted Reporting. It's the oldest and largest conference dedicated to data journalism and a great place to talk to old friends and new about data journalism and its evolution. Enjoy!
 
-<i>Biggest thanks to [Julia Chan](https://twitter.com/juliachanb), a Digital Editor at [Reveal News](https://www.revealnews.org/), for her help making this month's episode. Without her we would have had a poorer show. Thank you!</i>
+<i>Biggest thanks to [Julia Chan](https://twitter.com/juliachanb), a digital editor at [Reveal News](https://www.revealnews.org/), for her help making this month's episode. Without her we would have had a poorer show. Thank you!</i>
 
 ###Links:
 
